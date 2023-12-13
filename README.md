@@ -6,3 +6,8 @@ A simple Tic Tac Toe game built with Flutter for entertainment purposes.
 - User-friendly interface
 - Classic Tic Tac Toe gameplay
 - Two-player mode for multiplayer fun
+## Screenshots
+<img src="SS1.png" >
+<img src="SS2.png" >
+<img src="SS3.png" >
+<img src="SS4.png" >
